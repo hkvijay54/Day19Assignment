@@ -16,6 +16,8 @@ namespace Day19Assignment
             var check = Console.ReadLine();
             Console.Write("Enter your Last name : ");
             var lastcheck = Console.ReadLine();
+            Console.Write("Enter your Last name : ");
+            var email = Console.ReadLine();
 
             fn.FirstNameRegex(check);
             Console.WriteLine(check);
@@ -23,6 +25,9 @@ namespace Day19Assignment
             
             fn.LastNameRegex(lastcheck);
             Console.WriteLine(lastcheck);
+
+            fn.EmailRegex(email);
+            Console.WriteLine(email);
         }
     }
 }

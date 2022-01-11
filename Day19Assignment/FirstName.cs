@@ -10,6 +10,7 @@ namespace Day19Assignment
     {
         public static string REGEX_FIRST_NAME = "^[A-Z]{1}[a-z]{2,}$";
         public static string LAST_NAME_REGEX = "^[A-Z]{1}[a-z]{2,}$";
+        public static string REGEX_EMAIL = "^(abc).?[a-z]{3,}[@](bl).?(co).?[a-z]{2,}$";
         public void FirstNameRegex(string first_name)
         {
             if(Regex.IsMatch(first_name, REGEX_FIRST_NAME))
@@ -34,5 +35,16 @@ namespace Day19Assignment
             }
         }
 
+        public void EmailRegex(string email)
+        {
+            if (Regex.IsMatch(email, REGEX_EMAIL))
+            {
+                Console.WriteLine("Email is Valid");
+            }
+            else
+            {
+                Console.WriteLine("Email is not valid");
+            }
+        }
     }
 }
