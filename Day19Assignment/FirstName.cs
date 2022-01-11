@@ -11,6 +11,7 @@ namespace Day19Assignment
         public static string REGEX_FIRST_NAME = "^[A-Z]{1}[a-z]{2,}$";
         public static string LAST_NAME_REGEX = "^[A-Z]{1}[a-z]{2,}$";
         public static string REGEX_EMAIL = "^(abc).?[a-z]{3,}[@](bl).?(co).?[a-z]{2,}$";
+        public static string REGEX_MOB_NUMBER = "^[0-9]{1,3}[ ][6789][0-9]{9}$";
         public void FirstNameRegex(string first_name)
         {
             if(Regex.IsMatch(first_name, REGEX_FIRST_NAME))
@@ -44,6 +45,18 @@ namespace Day19Assignment
             else
             {
                 Console.WriteLine("Email is not valid");
+            }
+        }
+
+        public void MobNoRegex(string mob)
+        {
+            if (Regex.IsMatch(mob, REGEX_MOB_NUMBER))
+            {
+                Console.WriteLine("Mobile Number is Valid");
+            }
+            else
+            {
+                Console.WriteLine("Mobile Number is not valid");
             }
         }
     }
