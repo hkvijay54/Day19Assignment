@@ -1,0 +1,15 @@
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\bin\Debug\net6.0\Day19Assignment.exe
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\bin\Debug\net6.0\Day19Assignment.deps.json
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\bin\Debug\net6.0\Day19Assignment.runtimeconfig.json
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\bin\Debug\net6.0\Day19Assignment.dll
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\bin\Debug\net6.0\ref\Day19Assignment.dll
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\bin\Debug\net6.0\Day19Assignment.pdb
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.csproj.AssemblyReference.cache
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.AssemblyInfoInputs.cache
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.AssemblyInfo.cs
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.csproj.CoreCompileInputs.cache
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.dll
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\ref\Day19Assignment.dll
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.pdb
+D:\downloads\abc\C# day19 Assignment\Day19Assignment\Day19Assignment\obj\Debug\net6.0\Day19Assignment.genruntimeconfig.cache
