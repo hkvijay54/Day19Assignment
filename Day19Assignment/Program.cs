@@ -24,7 +24,7 @@ namespace Day19Assignment
             fn.FirstNameRegex(check);
             Console.WriteLine(check);
 
-            
+
             fn.LastNameRegex(lastcheck);
             Console.WriteLine(lastcheck);
 
@@ -47,6 +47,15 @@ namespace Day19Assignment
 
             p1.Passwordrule4(password);
             Console.WriteLine(password);
+
+            while (true)
+            {
+                EmailRegex emailsample = new EmailRegex();
+                Console.WriteLine("Please Enter your sample emails to check");
+                var mailid = Console.ReadLine();
+                emailsample.emailsam(mailid);
+                Console.WriteLine(mailid);
+            }
         }
     }
 }
