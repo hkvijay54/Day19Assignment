@@ -41,6 +41,9 @@ namespace Day19Assignment
 
             p1.Passwordrule1(password);
             Console.WriteLine(password);
+
+            p1.Passwordrule3(password);
+            Console.WriteLine(password);
         }
     }
 }
