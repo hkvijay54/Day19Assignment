@@ -33,6 +33,14 @@ namespace Day19Assignment
 
             fn.MobNoRegex(mobile);
             Console.WriteLine(mobile);
+
+            Password p1 = new Password();
+
+            Console.WriteLine("Enter password : ");
+            var password = (Console.ReadLine());
+
+            p1.Passwordrule1(password);
+            Console.WriteLine(password);
         }
     }
 }
