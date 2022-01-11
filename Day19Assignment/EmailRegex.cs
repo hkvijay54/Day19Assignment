@@ -10,7 +10,7 @@ namespace Day19Assignment
     {
         public static string REGEX_Email = @"^[0-9A-Za-z]+([._+-][0-9A-Za-z]+)*[@][0-9A-Za-z]+.[a-zA-Z]{2,3}(.[a-zA-Z]{2,3})?$";
 
-        public void emailsample(string emailid)
+        public void emailsam(string emailid)
         {
             if (Regex.IsMatch(emailid, REGEX_Email))
             {
